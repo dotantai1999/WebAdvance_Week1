@@ -49,3 +49,11 @@ ul {
 .game-info {
     margin-left: 20px;
 }
+
+.bold-text {
+    font-weight: bold;
+}
+
+.highlight {
+    color: rgb(44, 235, 19);
+}
